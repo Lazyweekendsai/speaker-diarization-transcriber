@@ -1,0 +1,7 @@
+[0.00 - 3.28] SPEAKER_01: Kan du ikke flytte det kamera? Jeg kan ikke fordra og blive fotografert nedfra.
+[3.28 - 6.68] SPEAKER_01: Jeg gider altså ikke, hvis det skal være med sådan en komadier der, for at sige det rent ud.
+[6.68 - 8.68] SPEAKER_01: Jeg bliver der rigtig dært af det.
+[10.00 - 15.00] SPEAKER_01: Men jeg vil kraft eddmege, at fotograferes nedfra dig, så den kan du godt spare dig den der.
+[15.84 - 18.64] SPEAKER_01: Ja, men så skal du ikke stå og fotografere mig nedfra.
+[19.28 - 21.68] SPEAKER_00: Okay, så er vi færdige. Vi slutter.
+[21.68 - 25.00] SPEAKER_00: Nej, jeg vil ikke præsentere på.
